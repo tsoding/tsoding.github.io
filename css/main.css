@@ -7,11 +7,12 @@ body {
     height: 100%;
     width: 100%;
     text-align: center;
+    background: #181818;
+    color: #e4e4ef;
 }
 
 .tsoding-title {
     padding-bottom: 15px;
-    font-kerning: normal;
     font-family: 'Cantarell', sans-serif;
     font-size: 80px;
 }
@@ -28,9 +29,11 @@ body {
     vertical-align: middle;
 }
 
-.tsoding-link {
-    padding-right: 10px;
+a {
+    margin-right: 10px;
     font-kerning: normal;
     font-family: 'Cantarell', sans-serif;
-    font-size: 20px;
+    font-size: 25px;
+    color: #73c936;
+    text-decoration: none;
 }
