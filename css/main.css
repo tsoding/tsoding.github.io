@@ -12,7 +12,6 @@ body {
 }
 
 .tsoding-title {
-    padding-bottom: 15px;
     font-family: 'Cantarell', sans-serif;
     font-size: 80px;
 }
@@ -27,6 +26,10 @@ body {
 .tsoding-box {
     display: table-cell;
     vertical-align: middle;
+}
+
+.tsoding-links {
+    margin-top: 15px;
 }
 
 a {
