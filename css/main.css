@@ -28,15 +28,21 @@ body {
     vertical-align: middle;
 }
 
-.tsoding-links {
-    margin-top: 15px;
-}
-
 a {
-    margin-right: 10px;
     font-kerning: normal;
     font-family: 'Cantarell', sans-serif;
     font-size: 25px;
     color: #73c936;
     text-decoration: none;
+}
+
+.tsoding-links {
+    margin-top: 0px;
+    margin-right: 25px;
+}
+
+.tsoding-social-link {
+    margin-right: 0px;
+    width: 32px;
+    height: 32px;
 }
