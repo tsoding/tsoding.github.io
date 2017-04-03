@@ -11,25 +11,19 @@ body {
     text-align: center;
 }
 
-.tsoding-archive-playlist {
-}
-
-.tsoding-archive-video-thumbnail {
-    width: 200px;
-}
-
-.tsoding-archive-video {
+.tsoding-playlist {
     display: inline-block;
-    margin-right: 35px;
-    margin-bottom: 15px;
+    padding-bottom: 10px;
+    padding-right: 10px;
 }
 
-.tsoding-archive-video-title {
-    width: 200px;
-    color: #e4e4ef;
+.tsoding-playlist-title {
+    font-size: 20px;
+    padding-bottom: 5px;
 }
 
-.tsoding-archive-playlist-title {
-    font-size: 30px;
-    margin-bottom: 10px;
+.tsoding-playlist-thumbnail {
+    display: inline-block;
+    width: 224px;
+    height: 126px;
 }
