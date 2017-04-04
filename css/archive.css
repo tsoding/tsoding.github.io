@@ -13,13 +13,13 @@ body {
 
 .tsoding-playlist {
     display: inline-block;
-    padding-bottom: 10px;
+    padding-bottom: 25px;
     padding-right: 10px;
 }
 
 .tsoding-playlist-title {
     font-size: 20px;
-    padding-bottom: 5px;
+    padding-top: 10px;
 }
 
 .tsoding-playlist-thumbnail {
