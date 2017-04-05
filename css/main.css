@@ -11,14 +11,22 @@ body {
     color: #e4e4ef;
 }
 
-.tsoding-title {
-    font-family: 'Cantarell', sans-serif;
-    font-size: 80px;
-}
 
 .tsoding-box {
     display: table-cell;
     vertical-align: middle;
+}
+
+.tsoding-box h1 {
+    font-family: 'Cantarell', sans-serif;
+    font-size: 80px;
+    margin-bottom: 5px;
+}
+
+.tsoding-box h2 {
+    font-family: 'Cantarell', sans-serif;
+    font-size: 30px;
+    margin-bottom: 10px;
 }
 
 a {
@@ -30,12 +38,25 @@ a {
 }
 
 .tsoding-links {
-    margin-top: 0px;
     margin-right: 25px;
+    margin-bottom: 30px
 }
 
-.tsoding-social-link {
-    margin-right: 0px;
+.tsoding-icon-link-first {
+    margin-left: 10px
+}
+
+.tsoding-icon-link {
     width: 32px;
     height: 32px;
+    margin-right: 10px;
+}
+
+.tsoding-text-link-first {
+    margin-left: 20px;
+}
+
+.tsoding-text-link {
+    margin-right: 20px;
+    font-size: 25px;
 }
