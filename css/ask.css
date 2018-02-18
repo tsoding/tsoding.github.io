@@ -37,6 +37,14 @@ ul {
     list-style-position: outside;
 }
 
+ul ul {
+    list-style-type: square;
+}
+
 ul li {
-    line-height: 23px;
+    line-height: 28px;
+}
+
+ul ul li {
+    margin-left: 30px;
 }
